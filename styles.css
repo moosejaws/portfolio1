@@ -80,12 +80,12 @@ a {
     align-items: center;
     text-align: center;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 68px;
     max-width: 750px;
     color: whitesmoke;
     font-weight: 600;
     line-height: 90px;
-    padding-top: 14vh;
+    padding-top: 10vh;
 }
 
 .container .section:nth-child(2) p{
@@ -183,12 +183,12 @@ a {
         align-items: center;
         text-align: center;
         margin: auto;
-        margin-bottom: 30px;
+        margin-bottom: 70px;
         max-width: 750px;
         color: whitesmoke;
         font-weight: 600;
         line-height: 90px;
-        padding-top: 16vh;
+        padding-top: 10vh;
     }
     
     .container .section:nth-child(2) p{
