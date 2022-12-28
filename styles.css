@@ -85,7 +85,7 @@ a {
     color: whitesmoke;
     font-weight: 600;
     line-height: 90px;
-    padding-top: 40px;
+    padding-top: 16vh;
 }
 
 .container .section:nth-child(2) p{
