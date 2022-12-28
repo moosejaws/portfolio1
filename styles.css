@@ -221,6 +221,14 @@ a {
         text-align: center;
     }
 
+    #icon1 {
+        font-size: 35px;
+        color: #fafa00;
+        font-weight: 600;
+        line-height: 90px;
+
+        padding: 10px;
+    }
 
 
     .grid-container {
