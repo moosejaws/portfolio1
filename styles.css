@@ -41,8 +41,8 @@
     max-width: 750px;
     color: whitesmoke;
     font-weight: 600;
-    line-height: 90px;
-    padding-top: 30vh;
+    line-height: 115px;
+    padding-top: 24vh;
 }
 
 .container .section:nth-child(1) p{
@@ -163,8 +163,8 @@ a {
         padding: 50px;
         line-height: 50px;
         margin: auto;
-        padding-top: 25vh;
-        margin-bottom: -60px;
+        padding-top: 22vh;
+        margin-bottom: -80px;
     }
 
 
